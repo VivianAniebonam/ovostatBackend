@@ -1,0 +1,21 @@
+{
+  "name": "ovostatbackend",
+  "version": "1.0.0",
+  "description": "Ovostat web application backend repository",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.37.4"
+  }
+}
